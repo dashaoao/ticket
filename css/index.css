@@ -24,6 +24,7 @@ main {
 img {
     width: 80vw;
     height: auto;
+    z-index: 2;
 }
 
 #root {
